@@ -11,7 +11,7 @@ Matricula: 923826
 
 ## Tela resultado arquivo index.html
 
-![print da inspeção](<img width="960" height="540" alt="imagem 02" src="https://github.com/user-attachments/assets/8014054f-1f87-4acf-a254-f640faf5f13f" />)
+![print da inspeção](imagem 02.png)
 
 ## Orientações sobre Linguagem MarkDown
 
