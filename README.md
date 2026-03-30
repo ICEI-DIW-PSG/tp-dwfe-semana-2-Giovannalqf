@@ -2,14 +2,16 @@
 
 ## Informações Gerais
 
-Nome:
-Matricula:
+Nome: Giovanna Luisa
+Matricula: 923826
 
 ## Tela de inspeção com navegador
 
-`<Coloque aqui o print da tela de inspeção do seu navegador>`
+![print da inspeção](<img width="960" height="540" alt="imagem 01" src="https://github.com/user-attachments/assets/f749e9e2-fd24-4a8e-9345-86d50556b8ff" />)
 
+## Tela resultado arquivo index.html
 
+![print da inspeção](<img width="960" height="540" alt="imagem 02" src="https://github.com/user-attachments/assets/8014054f-1f87-4acf-a254-f640faf5f13f" />)
 
 ## Orientações sobre Linguagem MarkDown
 
