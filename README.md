@@ -7,11 +7,11 @@ Matricula: 923826
 
 ## Tela de inspeção com navegador
 
-![print da inspeção](images/imagem_01.png)
+![print da inspeção](Imagens/imagem_01.png)
 
 ## Tela resultado arquivo index.html
 
-![print da inspeção](images/imagem_02.png)
+![print da inspeção](Imagens/imagem_02.png)
 
 ## Orientações sobre Linguagem MarkDown
 
